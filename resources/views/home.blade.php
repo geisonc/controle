@@ -1,0 +1,1 @@
+@extends("controle.layout")
